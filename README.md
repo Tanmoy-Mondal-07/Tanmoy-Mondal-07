@@ -30,6 +30,14 @@ markdown
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Tanmoy-Mondal-07"><img src="https://github-readme-stats.vercel.app/api?username=Tanmoy-Mondal-07&hide_border=true&show_icons=true" alt="Tanmoy Mondal's github stats"></a></br>
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy-Mondal-07&theme=nightowl&hide_border=true"></a>
+  <a href="https://github.com/Tanmoy-Mondal-07"><img src="https://github-readme-stats.vercel.app/api?username=Tanmoy-Mondal-07&hide_border=true&show_icons=true" alt="Tanmoy Mondal's github stats"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tanmoy-Mondal-07">
+    <img
+      src="https://streak-stats.demolab.com?user=Tanmoy-Mondal-07&theme=nightowl&hide_border=true"
+      alt="Tanmoy Mondal's GitHub streak stats"
+    />
+  </a>
 </p>
