@@ -4,7 +4,8 @@
 
 <!-- # Tanmoy Mondal -->
 
-**_Developer | Dreamer | Doer_**
+<!-- **_Developer | Dreamer | Doer_** -->
+**_Front-End Developer_**
 
 </div>
 
@@ -23,7 +24,7 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-181717?style=for-the-badge&logo=appwrite&logoColor=pink)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-181717?style=for-the-badge&logo=cloudflare&logoColor=orange)
 ![NPM](https://img.shields.io/badge/NPM-181717?style=for-the-badge&logo=npm&logoColor=red)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-181717?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-181717?style=for-the-badge&logo=arch-linux&logoColor=38BDF8)
 
 </div>
 
@@ -39,4 +40,5 @@
 <a href="https://github.com/Tanmoy-Mondal-07">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true" alt="Tanmoy Mondal's GitHub Stats" />
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanmoy-Mondal-07&label=Profile%20views&color=4f0000&style=pixel" alt="Tanmoy-Mondal-07" /> </p>
 </div>
