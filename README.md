@@ -42,3 +42,5 @@ markdown
 </p>
 
 ![Tanmoy Mondal's GitHub streak stats](https://streak-stats.demolab.com/?user=Tanmoy-Mondal-07&theme=nightowl&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Tanmoy-Mondal-07&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
