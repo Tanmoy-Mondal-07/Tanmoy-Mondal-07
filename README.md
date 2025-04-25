@@ -36,4 +36,4 @@ markdown
 
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Tanmoy-Mondal-07&theme=shadow_red&hide_border
-=true)](https://git.io/streak-stats) can u make the whole page shadow rade theme like my stats and also add arch linux
+=true)](https://git.io/streak-stats)
