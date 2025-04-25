@@ -29,9 +29,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Tanmoy-Mondal-07">
     <img src="https://github-readme-stats.vercel.app/api?username=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true&show_icons=true" alt="Tanmoy Mondal's GitHub Stats" />
   </a>
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true)](https://github.com/Tanmoy-Mondal-07)
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true)](https://git.io/streak-stats)
+</div>
