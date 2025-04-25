@@ -34,9 +34,9 @@ markdown
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/Tanmoy-Mondal-07">
     <img
       src="https://streak-stats.demolab.com/?user=Tanmoy-Mondal-07&theme=nightowl&hide_border=true"
-      alt="Tanmoy Mondal’s GitHub streak stats">
+      alt="Tanmoy Mondal streak stats">
   </a>
 </p>
