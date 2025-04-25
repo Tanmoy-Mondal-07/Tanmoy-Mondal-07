@@ -22,6 +22,7 @@ markdown
 ![Appwrite](https://img.shields.io/badge/Appwrite-181717?style=for-the-badge&logo=appwrite&logoColor=pink)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-181717?style=for-the-badge&logo=cloudflare&logoColor=orange)
 ![NPM](https://img.shields.io/badge/NPM-181717?style=for-the-badge&logo=npm&logoColor=red)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-181717?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
 
