@@ -1,5 +1,3 @@
-**Cleaned, Professional, and Minimal `README.md` for Tanmoy Mondal**
-
 markdown
 <div align="center">
 
