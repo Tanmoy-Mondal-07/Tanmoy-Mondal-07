@@ -29,8 +29,9 @@ markdown
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true)](https://git.io/streak-stats)
-
 <p align="center">
   <a href="https://github.com/Tanmoy-Mondal-07"><img src="https://github-readme-stats.vercel.app/api?username=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true&show_icons=true" alt="Tanmoy Mondal's github stats"></a>
 </p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true)](https://git.io/streak-stats)
