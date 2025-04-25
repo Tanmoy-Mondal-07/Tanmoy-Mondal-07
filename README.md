@@ -40,3 +40,5 @@ markdown
       alt="Tanmoy Mondal streak stats">
   </a>
 </p>
+
+![Tanmoy Mondal's GitHub streak stats](https://streak-stats.demolab.com/?user=Tanmoy-Mondal-07&theme=nightowl&hide_border=true)
