@@ -34,7 +34,7 @@
 
 <div align="center">
 <a href="https://github.com/Tanmoy-Mondal-07">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmoy-Mondal-07&theme=shadow_red&hide_border=true&show_icons=true" alt="Tanmoy Mondal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmoy-Mondal-07&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true&show_icons=true" alt="Tanmoy Mondal's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Tanmoy-Mondal-07">
