@@ -1,5 +1,8 @@
 <div align="center">
-<img height="140px" src="logo.png"/><br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 24 24" fill="none" stroke="#4f0000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-user-round-icon lucide-user-round"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></svg>
+
+<!-- <img height="140px" src="logo.png"/><br/> -->
 <img src="text00.svg"/><br/>
 
 <!-- # Tanmoy Mondal -->
