@@ -1,5 +1,5 @@
 <div align="center">
-<img height="210px" src="logo.png"/><br/>
+<img height="140px" src="logo.png"/><br/>
 <img src="text00.svg"/><br/>
 
 <!-- # Tanmoy Mondal -->
