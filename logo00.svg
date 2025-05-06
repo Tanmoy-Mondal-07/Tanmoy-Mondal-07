@@ -10,6 +10,15 @@
       0%, 100% { transform: scale(1); }
       50% { transform: scale(1.1); }
     }
+    @keyframes bob {
+      0%,100% { transform: translateY(0); }
+      50%      { transform: translateY(-10px); }
+    }
+    @keyframes glow {
+      0%   { filter: drop-shadow(0 0 2px #f00); }
+      50%  { filter: drop-shadow(0 80px 80px #f00); }
+      100% { filter: drop-shadow(0 0 2px #f00); }
+    }
     @keyframes colorShift {
       0%, 100% { fill:#4f0000; }
       50% { fill:rgb(171, 0, 0); }
@@ -21,12 +30,16 @@
     .color {
       animation: colorShift 2s infinite ease-in-out;
     }
+    .draw-path {
+      animation: glow 2s ease-in-out infinite,
+                 bob 3s ease-in-out infinite;
+    }
   </style>
 
 <g transform="translate(0.000000,1024.000000) scale(0.100000,-0.100000)"
 fill="#4f0000" stroke="none">
 
-<path d="M5292 9632 c101 -96 169 -192 207 -291 50 -132 50 -132 -5 -80 -145
+<path class="draw-path" pathLength="5" d="M5292 9632 c101 -96 169 -192 207 -291 50 -132 50 -132 -5 -80 -145
 136 -298 211 -504 244 -246 40 -344 72 -450 150 -26 19 -50 35 -54 35 -12 0
 35 -106 70 -157 20 -29 117 -129 215 -224 99 -94 178 -173 176 -175 -2 -2 -40
 13 -85 32 -116 50 -233 72 -430 79 -92 3 -198 11 -237 16 -148 21 -261 103
