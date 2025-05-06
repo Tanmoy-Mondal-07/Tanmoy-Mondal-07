@@ -19,7 +19,7 @@
       transform-origin: center;
     }
     .color {
-      animation: colorShift 4s infinite ease-in-out;
+      animation: colorShift 2s infinite ease-in-out;
     }
   </style>
 
