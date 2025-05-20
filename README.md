@@ -25,6 +25,8 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-181717?style=for-the-badge&logo=appwrite&logoColor=pink)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-181717?style=for-the-badge&logo=cloudflare&logoColor=orange)
 ![NPM](https://img.shields.io/badge/NPM-181717?style=for-the-badge&logo=npm&logoColor=red)
+![Axios](https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=axios&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-181717?style=for-the-badge&logo=arch-linux&logoColor=38BDF8)
 
 </div>
