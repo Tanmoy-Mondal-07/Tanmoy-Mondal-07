@@ -18,7 +18,6 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=green) -->
 ![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-181717?style=for-the-badge&logo=redux&logoColor=purple)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
@@ -29,6 +28,7 @@
 ![Axios](https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=axios&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-181717?style=for-the-badge&logo=arch-linux&logoColor=38BDF8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-181717?style=for-the-badge&logo=framer&logoColor=white)
 
 </div>
 
