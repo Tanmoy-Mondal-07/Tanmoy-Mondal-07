@@ -1,12 +1,13 @@
 <div align="center">
 
 <img src="logo01.svg"/><br/>
-<img src="text00.svg"/><br/>
+<!-- <img src="text00.svg"/><br/> -->
 
 <!-- # Tanmoy Mondal -->
 
 <!-- **_Developer | Dreamer | Doer_** -->
-**_Front-End Developer_**
+<!-- **_Front-End Developer_** -->
+**_Tanmoy Mondal_**
 
 </div>
 
@@ -17,7 +18,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
-![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=green)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=green) -->
 ![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-181717?style=for-the-badge&logo=redux&logoColor=purple)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)

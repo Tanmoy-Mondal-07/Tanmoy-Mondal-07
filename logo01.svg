@@ -2,13 +2,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="250.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000"
+ width="200.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000"
  preserveAspectRatio="xMidYMid meet">
 
 <style>
     @keyframes colorShift {
       0%, 100% { fill:#4f0000; }
-      50% { fill:rgb(211, 0, 0); }
+      50% { fill:rgb(255, 0, 0); }
     }
     .color {
       animation: colorShift 5s infinite ease-in-out;
@@ -16,7 +16,7 @@
 </style>
 
 <g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)"
-fill="#4f0000" stroke="none">
+fill="gray" stroke="none">
 <path d="M1295 2856 c-253 -66 -407 -194 -467 -389 -23 -78 -22 -186 4 -247
 l15 -35 1 72 c2 150 60 346 118 394 10 8 5 -8 -14 -41 -46 -81 -65 -168 -60
 -270 5 -99 28 -160 93 -247 42 -55 50 -77 23 -56 -7 5 -34 17 -60 27 -124 46
