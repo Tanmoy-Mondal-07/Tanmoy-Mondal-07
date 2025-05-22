@@ -7,7 +7,7 @@
 
 <!-- **_Developer | Dreamer | Doer_** -->
 **_Tanmoy Mondal_**
-**_Front-End Developer_**
+<!--**_Front-End Developer_** -->
 
 
 </div>
