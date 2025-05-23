@@ -7,7 +7,7 @@
 
 <style>
     @keyframes colorShift {
-      0%, 100% { fill:#4f0000; }
+      0%, 100% { fill:#000000; }
       50% { fill:rgb(255, 0, 0); }
     }
     .color {
