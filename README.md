@@ -6,8 +6,9 @@
 <!-- # Tanmoy Mondal -->
 
 <!-- **_Developer | Dreamer | Doer_** -->
-<!-- **_Front-End Developer_** -->
 **_Tanmoy Mondal_**
+<!--**_Front-End Developer_** -->
+
 
 </div>
 
