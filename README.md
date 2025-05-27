@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo01.svg" width="120" /><br/><br/>
+<img src="logo01.svg" /><br/><br/>
 
 <strong><em style="color:#B197FC; font-size: 24px;">Tanmoy Mondal</em></strong>
 
