@@ -11,28 +11,31 @@
 
 ---
 
-## 🚀 Tech Arsenal
+<!-- ## 🚀 Tech Arsenal -->
+## Tech Arsenal
 
-<div align="center" style="filter: grayscale(100%)">
 
-<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-181717?style=for-the-badge&logo=redux&logoColor=purple"/>
-<img src="https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Appwrite-181717?style=for-the-badge&logo=appwrite&logoColor=pink"/>
-<img src="https://img.shields.io/badge/Cloudflare-181717?style=for-the-badge&logo=cloudflare&logoColor=orange"/>
-<img src="https://img.shields.io/badge/NPM-181717?style=for-the-badge&logo=npm&logoColor=red"/>
-<img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=axios&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Arch_Linux-181717?style=for-the-badge&logo=arch-linux&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Framer_Motion-181717?style=for-the-badge&logo=framer&logoColor=white"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=808080"/>
+<img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=808080"/>
+<img src="https://img.shields.io/badge/Redux-181717?style=for-the-badge&logo=redux&logoColor=808080"/>
+<img src="https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=tailwindcss&logoColor=808080"/>
+<img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=808080"/>
+<img src="https://img.shields.io/badge/Appwrite-181717?style=for-the-badge&logo=appwrite&logoColor=808080"/>
+<img src="https://img.shields.io/badge/Cloudflare-181717?style=for-the-badge&logo=cloudflare&logoColor=808080"/>
+<img src="https://img.shields.io/badge/NPM-181717?style=for-the-badge&logo=npm&logoColor=808080"/>
+<img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=axios&logoColor=808080"/>
+<img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=808080"/>
+<img src="https://img.shields.io/badge/Arch_Linux-181717?style=for-the-badge&logo=arch-linux&logoColor=808080"/>
+<img src="https://img.shields.io/badge/Framer_Motion-181717?style=for-the-badge&logo=framer&logoColor=808080"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
+## GitHub Stats
 
 <div align="center">
 <a href="https://github.com/Tanmoy-Mondal-07">
